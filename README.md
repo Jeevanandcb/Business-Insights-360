@@ -7,7 +7,7 @@ This project focuses on optimizing and streamlining various aspects of AtliQ Har
 [Access the live dashboard] - https://rb.gy/cdmmat 
 
 ![Screenshot 2024-08-09 102104](https://github.com/user-attachments/assets/80048c78-1c0c-48b5-b341-9f3e003f1b92)
-[https://rb.gy/cdmmat](url)
+
 
 
 ## Perspectives
